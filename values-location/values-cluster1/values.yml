@@ -1,0 +1,5 @@
+serviceAccount:
+  create: true      # Set to 'false' to disable the service account  
+  name: my-sa  # Default name of the service account
+
+replicaCount: 2
